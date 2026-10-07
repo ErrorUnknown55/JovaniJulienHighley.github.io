@@ -1,22 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com/"
+    "name": "Caribbean Food Group",
+    "type": "Mobile Game",
+    "url": "https://github.com/ErrorUnknown55/caribbean_food_group_game",
+    "description": "A mobile game developed using Flutter and Dart, featuring Caribbean food-themed gameplay.",
+    "technologies": ["Flutter", "Dart"],
+    "featured": false
   },
   {
-    "name": "Flutter",
-    "url": "https://www.flutter.dev/"
+    "name": "Flappy Bird",
+    "type": "Desktop Game",
+    "url": "https://github.com/ErrorUnknown55/FlappyBird",
+    "description": "A desktop game developed using Java, inspired by the classic Flappy Bird gameplay.",
+    "technologies": ["Java"],
+    "featured": true
   },
   {
-    "name": "Dart",
-    "url": "https://www.dart.dev/"
+    "name": "Pacman",
+    "type": "Desktop Game",
+    "url": "https://github.com/ErrorUnknown55/Pacman",
+    "description": "Java Developed desktop game inspired by the classic Pacman gameplay.",
+    "technologies": ["Java"],
+    "featured": true
   },
   {
-    "name": "Youtube",
-    "url": "https://www.youtube.com/"
+    "name": "Star Navigator",
+    "type": "Desktop Game",
+    "url": "https://github.com/ErrorUnknown55/StarNavigator",
+    "description": "N/A",
+    "technologies": ["Java"],
+    "featured": false
   },
   {
-    "name": "Facebook",
-    "url": "https://www.facebook.com/"
+    "name": "Star Navigator 2",
+    "type": "Desktop Game",
+    "url": "https://github.com/ErrorUnknown55/StarNavigator2",
+    "description": "N/A",
+    "technologies": ["Java"],
+    "featured": false
   }
 ]

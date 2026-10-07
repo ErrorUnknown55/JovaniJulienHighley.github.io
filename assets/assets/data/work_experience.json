@@ -1,12 +1,26 @@
 [
   {
-    "companyName": "MAKEITSIMPLETT EDUCATIONAL SERVICES",
-    "period": "01/JUNE/2023 – 31/AUG/2023",
-    "jobDiscription": "\t-Teaching Scratch Programming"
+    "companyName": "Johnny Wash",
+    "jobTitle": "Administrative Assistant - Information Systems",
+    "period": "Oct/2025 - Present",
+    "jobDiscription": "\tOffice Maintenance: Restock supplies, track inventory, and report equipment repairs. \n\tAttention to Detail: Accuracy in data entry and record-keeping.\n\tSoftware Knowledge: Comfort using programs like Microsoft Office, Google Workspace, and basic databases."
   },
   {
     "companyName": "MAKEITSIMPLETT EDUCATIONAL SERVICES",
-    "period": "01/JUNE/2022 – 31/AUG/2022",
-    "jobDiscription": "\t-Developing a mobile app using flutter \n\t-Teaching Scratch Programming"
+    "jobTitle": "Scratch Programming Instructor",
+    "period": "JUNE/2023 – AUG/2023",
+    "jobDiscription": "\tTeaching Scratch Programming \n\tBuild 2D game mechanics, user interfaces, levels, and features using Construct 3."
+  },
+  {
+    "companyName": "MAKEITSIMPLETT EDUCATIONAL SERVICES",
+    "jobTitle": "Flutter App Developer & Teacher",
+    "period": "JUNE/2022 – AUG/2022",
+    "jobDiscription": "\tDeveloping a mobile app using flutter \n\tTeaching Scratch Programming"
+  },
+  {
+    "companyName": "RecruitmentXperts Limited",
+    "jobTitle": "Intern",
+    "period": "July/2018 - July/2018",
+    "jobDiscription": "\tData entry \n\tScheduling: Update calendars, coordinate meeting rooms, and schedule appointments. \n\tGreet guests, determine the purpose of their visit, and direct them to the appropriate person or department."
   }
 ]
